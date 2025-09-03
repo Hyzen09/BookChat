@@ -1,0 +1,7 @@
+1 .import file api - ingest_book imp pdf 
+
+2. question summery api - chat imp question
+
+3 sugested question - api sugested question inp previous ans 
+
+
